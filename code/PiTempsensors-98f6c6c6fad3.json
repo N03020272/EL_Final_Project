@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pitempsensors",
+  "private_key_id": "98f6c6c6fad3d9d06cf74a8be14e8773320895b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvgmcUc3ZEZ8Uf\n+Wysqx4OZwciePCAXz0qGmEbK9ErTH0cTwmAb3S8zKmtmgX1rjfB7HTvAeoUVJM9\ng1uGjOpk53eOZo3hZdcWhLWyR3ifmPSSgEyl2rhtDRLtNm3H3+VRytooP0f3N6gB\nFwPgF9a4n8S/KI5VTdyl5TBH0JNZlBpsvg96NneEyzhtaAF+iHsYiMywWNrmW6iD\nI1E/280Ta/h5c0Fw7WTjXD0puumQsSagSU24ALctfEc8+9rHgIx0LxB1kWtgLLs9\nbCmg/d0XTdtBasoIAkPGNISXhZD7owbauBzqd5ZeWgJTPKGQAKekAfUkMhHvJfYO\nNrHdktbpAgMBAAECggEAGEhDMTfpUr0Fr68Pa1NQeP8lpE4VvjkPChJ0wXDeQ26V\nd7NytdeVz+JEDo37CZr1QWoQ4pmB9Jaf+XiBUvwPmO7SYnwLYLY5nDa3ucb8KB6e\nJd/E2wSIFCRlLDcl2KvAO0EEzmE0+H31i1MPGPPLZCdMrgLzMFexsa0kMSdpH5Es\nsFHJN8+BKKlYWTt0qk8vW0ifYd7LcwLHOTG3ggKJihilWkkd0Qmc+5GED/T8H4FH\nHNwfnTrfXiVK/FPPcKbKg+04Edw947epOspH40uAz7P1XA2CAvMObh7NRmAUIFuD\nfXi1eN4PaSwVSgHy5LclU+lFwo3uYnwe92VRIeVrhQKBgQDUrC7jxlULbAYpglLD\nyn7Ic2lAXGDUSe/6/zYNiRNzZCGlbo6V0AisAt4+3+C8vhftqphJPcUxLJ7iAm0T\nf38qemTbl08gM1XhDD5ehUezQxmY68wYIQfLZ4Cgb7LBj3dDHRD3WvoDmucfmOWA\n4YxK8rCZaDgU/nBYFHlW28nedQKBgQDTQ/5uRHU5sf/yKtjEj1+2p7FtBGxPfLNw\n0GuIdMOwvvY0RR5c1q/wagKqcWC2YF5hb4MjidbE/7IWr9aamlWygW5Vus9iJrt7\nQFjWXTzMfYM/YG4VBi54/G/ETZ49TU7MssU1vHOQUJEhwa5veCriG7voGhZg5zyo\nwNHuCnjwJQKBgQDGZcJwdstLloDBJHS1diiEMzZS9lrWcAtSKddxFRlyIk1JGTQn\nCiWs4hgWq5/qM6P68ZSTbu6Qi0HFMeIzuFMXe4qvWB5Wuc053sQoRUm4L7andAG3\n2Mh+tpXGFa266G2nzGvRdauaxV0rmuUvMDpCiNi6pAD9hMelQ6RWpT9TKQKBgBsI\nfkwZ0m45iqiwNuCf//1dY+SxRjK9oDB1Wu0xE8FQDi0OEx6KEiVPS1wH+focRrdt\nD3jCsIqwtVcV1P4fdYvL6BRsPREwJ5lT2IpFj/wSq3K2oh9qlRPCKYMS84agl861\nqWqA3MDArnGFWQ7Gb6ZTKi4++FIaBLcLRVGSYXtJAoGAEFfEwi1sRDUklOkTXfAy\n7SGcSerm0G8JEgK5iIAa0ye95DkNWpdEZ2fdXf3yYEKgiSq04nVWQBAD6FiP0AZA\njE8p+XhZHMNsC5i7bxAYfd7KiVx1MIYC83g+lLo4gvmGsC7sxodSyjFfmWdQkFE7\nW89d4PHILoLNCmDGbn/CAHA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datacollector@pitempsensors.iam.gserviceaccount.com",
+  "client_id": "107226656691715470819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datacollector%40pitempsensors.iam.gserviceaccount.com"
+}
